@@ -1,6 +1,6 @@
-# Nourhan Adel Mohamed El-Hady   ID : 20230452
-# Caroline Ayman Isaac           ID : 20230292
-# Fatma Nazeih Hanfy             ID : 20230284
+# Nourhan Adel Mohamed El-Hady  
+# Caroline Ayman Isaac          
+# Fatma Nazeih Hanfy             
 
 def decimal_to_binary(decimal_num):
     # To convert the number from decimal to binary
